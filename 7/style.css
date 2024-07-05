@@ -1,0 +1,313 @@
+.desktop-1 .logo {
+  width: 72px;
+  height: 72px;
+}
+.desktop-1 .home {
+  margin-right: 16px;
+  width: 99px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 1.333;
+  color: #ED6C30;
+}
+.desktop-1 .menu-1 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 1.333;
+  color: #FCC21B;
+}
+.desktop-1 .reservation {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 1.333;
+  color: #FCC21B;
+}
+.desktop-1 .contact {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 1.333;
+  color: #FCC21B;
+}
+.desktop-1 .nav {
+  margin: 20px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 500.2px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.desktop-1 .vector-3 {
+  width: 30px;
+  height: 35px;
+}
+.desktop-1 .bag {
+  margin: 17.7px 0 19.3px 0;
+  display: flex;
+  width: 30px;
+  height: 35px;
+  box-sizing: border-box;
+}
+.desktop-1 .header {
+  background: #372D23;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 32px 85px 32px 80px;
+  width: 1440px;
+  box-sizing: border-box;
+}
+.desktop-1 .taste-the-worlds-best-dishes {
+  box-shadow: 0px 6px 4px 0px #372D23;
+  margin-bottom: 32px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 1.167;
+  color: #FFFFFF;
+}
+.desktop-1 .online-order {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 1.4;
+  color: #FFFFFF;
+}
+.desktop-1 .button-1 {
+  box-shadow: 0px 2px 4px 0px rgba(0, 0, 0, 0.85);
+  border: 3px solid #FFFFFF;
+  background: #FCC21B;
+  display: flex;
+  align-self: flex-start;
+  padding: 9px 0.4px 9px 0;
+  width: 224px;
+  box-sizing: border-box;
+}
+.desktop-1 .article-1 {
+  background: #FCC21B;
+  display: flex;
+  flex-direction: column;
+  padding: 34px 40.9px 34px 40px;
+  box-sizing: border-box;
+}
+.desktop-1 .section-1 {
+  background: url('../assets/images/cover.png') 50% / cover no-repeat;
+  position: relative;
+  margin-bottom: 100px;
+  display: flex;
+  padding: 216px 0;
+  width: 1440px;
+  box-sizing: border-box;
+}
+.desktop-1 .section-img {
+  background: url('../assets/images/section_img.png') 50% / cover no-repeat;
+  margin-right: 100px;
+  width: 700px;
+  height: 400px;
+}
+.desktop-1 .discover-our-story {
+  margin: 0 19.1px 40px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 1.2;
+  color: #372D23;
+}
+.desktop-1 .our-story-starts-with-you-right-here-at-our-table-welcome-to-true-food-kitchen-true-food-kitchen-is-the-only-restaurant-fundamentally-based-on-science-which-ensures-all-of-its-craveable-dishes-and-drinks-work-to-increase-the-longevity-of-our-people-and-planet {
+  margin-bottom: 12px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1.4;
+  color: #855C52;
+}
+.desktop-1 .learn-more {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 1.4;
+  color: #FFFFFF;
+}
+.desktop-1 .button {
+  background: #ED6C30;
+  display: flex;
+  align-self: flex-start;
+  padding: 12px 0.7px 12px 0;
+  width: 211px;
+  box-sizing: border-box;
+}
+.desktop-1 .article {
+  margin: 0 0px 24px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.desktop-1 .section-2 {
+  margin: 0 130.7px 100px 120px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.desktop-1 .food {
+  margin-bottom: 16px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1.4;
+  color: #FFFFFF;
+}
+.desktop-1 .menu {
+  margin: 0 0px 8px 0px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #FCC21B;
+}
+.desktop-1 .catering-nutritionals-and-allergens {
+  margin: 0 0 8px 0px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #FCC21B;
+}
+.desktop-1 .good-slice-pizza {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #FCC21B;
+}
+.desktop-1 .nav-1 {
+  margin-left: 0.2px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.desktop-1 .footer-section-left {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.desktop-1 .connect-with-us {
+  margin-bottom: 16.8px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1.4;
+  color: #FFFFFF;
+}
+.desktop-1 .vector {
+  width: 20px;
+  height: 20px;
+}
+.desktop-1 .riinstagram-fill {
+  display: flex;
+  width: 20px;
+  height: 20px;
+  box-sizing: border-box;
+}
+.desktop-1 .vector-2 {
+  width: 18px;
+  height: 18px;
+}
+.desktop-1 .mdilinkedin {
+  margin: 1px 0;
+  display: flex;
+  width: 18px;
+  height: 18px;
+  box-sizing: border-box;
+}
+.desktop-1 .container {
+  margin: 1.2px 0 1.3px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 59px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.desktop-1 .vector-14 {
+  width: 10.1px;
+  height: 18.3px;
+}
+.desktop-1 .basilfacebook-solid {
+  margin: 2.1px 0;
+  display: flex;
+  width: 10.1px;
+  height: 18.3px;
+  box-sizing: border-box;
+}
+.desktop-1 .vector-1 {
+  width: 19.5px;
+  height: 22.5px;
+}
+.desktop-1 .akar-iconstiktok-fill {
+  display: flex;
+  width: 19.5px;
+  height: 22.5px;
+  box-sizing: border-box;
+}
+.desktop-1 .nav-2 {
+  margin: 0 18px 0 1.8px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 139.7px;
+  box-sizing: border-box;
+}
+.desktop-1 .footer-section-right {
+  margin: 0 0px 64.7px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.desktop-1 .footer {
+  background: #372D23;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 32px 80.2px;
+  width: 1440px;
+  box-sizing: border-box;
+}
+.desktop-1 {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 1440px;
+  box-sizing: border-box;
+}
